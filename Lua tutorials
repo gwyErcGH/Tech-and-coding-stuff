@@ -1,1 +1,10 @@
-Wwelcome to Lua tutorials!
+Welcome to Lua tutorials!
+
+--[[First, lets start with the basics. just print and console basics for VSCode.
+
+To open the terminal, use the keybond Ctrl+(backtick)
+To run a program, use the command lua filename.lua (please make sure you have lua installed!)
+
+Ok now actual programming.]]
+
+print("text"), or print() for non strings.
