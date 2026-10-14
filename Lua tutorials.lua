@@ -7,6 +7,8 @@ To run a program, use the command lua filename.lua (please make sure you have lu
 Also, to stop a program, use CTRL^C (ctrl + c)
 Ok now actual programming.]]
 
+print("Hello world!")
+
 local rAge = 11
 local cAge = 10
 local combinedAge = rAge + cAge
